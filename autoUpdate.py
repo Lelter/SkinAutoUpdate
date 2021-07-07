@@ -7,6 +7,7 @@ from time import sleep
 
 import requests
 
+# 这次的是第二版，修复了第一版的部分问题
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')
 url_update = r"http://leagueskin.net/p/download-mod-skin-2020-chn"
 url_download = ""
