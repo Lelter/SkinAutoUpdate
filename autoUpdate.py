@@ -14,7 +14,7 @@ url_download = ""
 save_file = "D://LOLskin_my"
 url_edition = ""
 file_edition = ""
-
+1
 
 def gethtml():
     global url_edition
